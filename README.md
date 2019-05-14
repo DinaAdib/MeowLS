@@ -1,0 +1,2 @@
+# MeowLS
+Lexical Simplification Project
